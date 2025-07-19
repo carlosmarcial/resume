@@ -120,13 +120,13 @@ export default function About() {
           </div>
           <div className="text-sm md:text-base leading-relaxed space-y-4">
             <p>
-              <span className="text-primary">{'>'}</span> Artist turned developer, or developer turned artist? The lines blur when you're creating at the intersection of technology and creativity.
+              <span className="text-primary">{'>'}</span> Artist turned developer, or developer turned artist? The lines blur when you&apos;re creating at the intersection of technology and creativity.
             </p>
             <p>
               <span className="text-primary">{'>'}</span> My journey began with traditional art, evolved through digital mediums, and found its voice in the blockchain revolution. Now I build full-stack applications that power the future of digital art.
             </p>
             <p>
-              <span className="text-primary">{'>'}</span> When I'm not coding smart contracts or creating NFTs, you'll find me exploring new technologies, mentoring emerging artists, or building tools that democratize access to digital art creation.
+              <span className="text-primary">{'>'}</span> When I&apos;m not coding smart contracts or creating NFTs, you&apos;ll find me exploring new technologies, mentoring emerging artists, or building tools that democratize access to digital art creation.
             </p>
             <p className="text-magenta">
               <span className="text-primary">{'>'}</span> Currently focused on: AI-assisted art generation, Web3 development, and creating immersive digital experiences.

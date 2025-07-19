@@ -12,7 +12,6 @@ import {
   Copy, 
   Check,
   Send,
-  MessageCircle
 } from 'lucide-react';
 
 const socialLinks = [
@@ -144,7 +143,7 @@ export default function Contact() {
             <span className="text-primary">{'>'}</span> CONNECT
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto font-mono">
-            Ready to build something extraordinary together? Let's connect.
+            Ready to build something extraordinary together? Let&apos;s connect.
           </p>
         </motion.div>
 
@@ -266,10 +265,10 @@ export default function Contact() {
           className="bg-card/30 backdrop-blur-sm border border-border/50 p-8 font-mono text-center"
         >
           <div className="text-primary mb-4">
-            <span className="text-magenta">$</span> echo "Thanks for visiting my digital realm"
+            <span className="text-magenta">$</span> echo &quot;Thanks for visiting my digital realm&quot;
           </div>
           <div className="text-muted-foreground text-sm">
-            <span className="text-primary">{'>'}</span> Let's build the future of art and technology together.
+            <span className="text-primary">{'>'}</span> Let&apos;s build the future of art and technology together.
             <br />
             <span className="text-primary">{'>'}</span> carlos@example.com | Available for projects worldwide
           </div>

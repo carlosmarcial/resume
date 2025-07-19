@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { useIntersectionObserver } from '@/hooks/useIntersectionObserver';
-import { Calendar, MapPin, Award, Briefcase, GraduationCap } from 'lucide-react';
+import { MapPin, Award, Briefcase, GraduationCap } from 'lucide-react';
 
 const timelineEvents = [
   {
@@ -25,7 +25,7 @@ const timelineEvents = [
     month: 'Jan',
     type: 'achievement',
     title: 'Major Breakthrough',
-    company: 'Sotheby\'s Digital Art Auction',
+    company: 'Sotheby&apos;s Digital Art Auction',
     location: 'New York',
     description: 'Featured in prestigious digital art auction, marking a significant milestone in my artistic career.',
     achievements: [
@@ -243,7 +243,7 @@ export default function Timeline() {
         >
           <div className="bg-card/30 backdrop-blur-sm border border-border/50 p-8 font-mono">
             <div className="text-primary mb-4">
-              <span className="text-magenta">$</span> git log --oneline --author="Carlos Marcial"
+              <span className="text-magenta">$</span> git log --oneline --author=&quot;Carlos Marcial&quot;
             </div>
             <p className="text-muted-foreground">
               <span className="text-primary">{'>'}</span> The journey continues... Next commit: Building the future of digital art.

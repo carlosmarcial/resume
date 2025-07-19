@@ -7,7 +7,7 @@ import { ExternalLink, Quote } from 'lucide-react';
 
 const pressLogos = [
   { name: 'CNN', logo: 'CNN' },
-  { name: 'Sotheby\'s', logo: 'S' },
+  { name: 'Sotheby&apos;s', logo: 'S' },
   { name: 'TechCrunch', logo: 'TC' },
   { name: 'Forbes', logo: 'F' },
   { name: 'Wired', logo: 'W' },
@@ -77,7 +77,7 @@ function CyclingQuote({ quotes, interval = 5000 }: CyclingQuoteProps) {
         <Quote className="absolute -bottom-4 -right-4 w-8 h-8 text-primary/30 rotate-180" />
         
         <blockquote className="text-lg md:text-xl font-mono leading-relaxed text-muted-foreground mb-6 px-8">
-          "{currentQuote.text}"
+          &quot;{currentQuote.text}&quot;
         </blockquote>
         
         <div className="flex flex-col items-center space-y-2">
@@ -176,19 +176,19 @@ export default function Press() {
               <div className="border-l-2 border-primary pl-4">
                 <div className="text-magenta font-semibold">CNN Business</div>
                 <div className="text-muted-foreground">
-                  "The Artist Who Coded His Way to Crypto Success"
+                  &quot;The Artist Who Coded His Way to Crypto Success&quot;
                 </div>
               </div>
               <div className="border-l-2 border-magenta pl-4">
-                <div className="text-magenta font-semibold">Sotheby's</div>
+                <div className="text-magenta font-semibold">Sotheby&apos;s</div>
                 <div className="text-muted-foreground">
-                  "Digital Renaissance: New Masters of NFT Art"
+                  &quot;Digital Renaissance: New Masters of NFT Art&quot;
                 </div>
               </div>
               <div className="border-l-2 border-magenta pl-4">
                 <div className="text-magenta font-semibold">Wired</div>
                 <div className="text-muted-foreground">
-                  "How AI and Blockchain Are Reshaping Art"
+                  &quot;How AI and Blockchain Are Reshaping Art&quot;
                 </div>
               </div>
             </div>
