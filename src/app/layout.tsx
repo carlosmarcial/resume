@@ -19,12 +19,12 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "Carlos Marcial - Digital Artist & Full-Stack Developer",
+  title: "Carlos Marcial - Full-Stack Developer & Digital Artist",
   description: "Crypto artist and full-stack developer with $1M+ in NFT sales and 7+ years of coding experience. Bridging art and technology.",
   keywords: ["crypto art", "NFT", "full-stack developer", "digital artist", "blockchain", "web3"],
   authors: [{ name: "Carlos Marcial" }],
   openGraph: {
-    title: "Carlos Marcial - Digital Artist & Full-Stack Developer",
+    title: "Carlos Marcial - Full-Stack Developer & Digital Artist",
     description: "Crypto artist and full-stack developer with $1M+ in NFT sales and 7+ years of coding experience.",
     type: "website",
   },

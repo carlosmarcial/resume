@@ -8,7 +8,7 @@ export default function TerminalHeader() {
       <TerminalWindow command="whoami" className="mb-8">
         <div className="space-y-2">
           <div className="text-2xl font-bold text-primary">Carlos Marcial</div>
-          <div className="text-lg text-magenta">Digital Artist & Full-Stack Developer</div>
+          <div className="text-lg text-magenta">Full-Stack Developer & Digital Artist</div>
           <div className="text-sm text-muted-foreground">
             <span className="text-magenta">›</span> Mexico City-born | 
             <span className="text-primary"> Crypto Art Pioneer since 2019</span>
