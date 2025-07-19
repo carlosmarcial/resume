@@ -4,6 +4,7 @@ import TerminalSkills from '@/components/TerminalSkills';
 import TerminalProjects from '@/components/TerminalProjects';
 import TerminalEducation from '@/components/TerminalEducation';
 import TerminalExhibitions from '@/components/TerminalExhibitions';
+import TerminalMedia from '@/components/TerminalMedia';
 import TerminalContact from '@/components/TerminalContact';
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
         <TerminalProjects />
         <TerminalEducation />
         <TerminalExhibitions />
+        <TerminalMedia />
         <TerminalContact />
       </div>
     </main>

@@ -33,30 +33,12 @@ const exhibitions: ExhibitionItem[] = [
   },
   {
     year: '2021',
-    title: 'CNN Interview - NFT Market Impact',
-    venue: 'International Media',
-    description: 'Featured alongside artist Osinachi explaining how NFTs transformed digital artists\' lives',
-    highlight: 'Mainstream media coverage',
-    link: 'https://www.youtube.com/watch?v=mrtn6LEDY8U&ab_channel=CNN',
-    linkText: 'Watch CNN Interview'
-  },
-  {
-    year: '2021',
     title: 'Kate Vass Galerie',
     venue: 'Zürich, Switzerland',
     description: 'Showcased "What is Art?" in AI & Generative Art exhibitions at pioneering digital art gallery',
     highlight: 'Early crypto art pioneer',
     link: 'https://www.katevassgalerie.com/artist/carlos-marcial/',
     linkText: 'Visit Gallery Page'
-  },
-  {
-    year: '2022',
-    title: 'Right Click Save Feature',
-    venue: 'NFT Art Journal',
-    description: 'Profiled as "probably the most successful crypto artist to emerge from Mexico City"',
-    highlight: 'Mexico City crypto art scene',
-    link: 'https://www.rightclicksave.com/article/on-crypto-arts-mexican-roots',
-    linkText: 'Read Article'
   }
 ];
 

@@ -26,8 +26,8 @@ const contacts: ContactItem[] = [
   },
   {
     label: 'SuperRare:',
-    value: 'superrare.com/@carlosmarcial',
-    link: 'https://superrare.com/@carlosmarcial'
+    value: 'superrare.com/carlosmarcial',
+    link: 'https://superrare.com/carlosmarcial'
   }
 ];
 

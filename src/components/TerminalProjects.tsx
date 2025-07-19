@@ -33,14 +33,16 @@ const projects: Project[] = [
     description: 'Interactive NFT - One-of-a-kind algorithmic aesthetic piece',
     stats: 'Sotheby\'s Paris €22,860',
     tech: ['HTML/JavaScript', 'Three.js', 'WebGL', 'Generative Algorithms'],
-    link: 'https://www.sothebys.com/en/auctions/2023/natively-digital-oddly-satisfying-pf2304',
+    link: 'https://www.sothebys.com/en/buy/auction/2023/natively-digital-oddly-satisfying/carlos-marcial',
     linkText: 'View Sotheby\'s Auction'
   },
   {
     name: 'the-collectors-room/',
     description: 'Generative NFT Series - 1000 editions for PROOF\'s Moonbirds Diamond Exhibition',
     stats: '40% AI-assisted code',
-    tech: ['Three.js', 'ChatGPT', 'Generative Art', 'Smart Contracts']
+    tech: ['Three.js', 'ChatGPT', 'Generative Art', 'Smart Contracts'],
+    link: 'https://opensea.io/collection/the-collector-s-room-by-carlos-marcial',
+    linkText: 'View on OpenSea'
   },
   {
     name: 'accelerated-jobs/',
@@ -55,7 +57,7 @@ const projects: Project[] = [
     description: 'First made-with-code cryptoart experiment - Infinite animation minted on SuperRare',
     stats: 'SuperRare featured',
     tech: ['JavaScript', 'Canvas API', 'Generative Animation', 'NFT'],
-    link: 'https://superrare.com/artwork-v2/proof-of-infinite-loop-32285',
+    link: 'https://l4gejmokfmdhttupkpr3uok2ubedpel2gjbub7b6itz37ky4bdlq.arweave.net/XwxEscorBnnOj1PjujlaoEg3kXoyQ0D8PkTzv6scCNc/',
     linkText: 'View on SuperRare'
   }
 ];
