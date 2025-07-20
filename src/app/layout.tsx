@@ -23,6 +23,13 @@ export const metadata: Metadata = {
   description: "Crypto artist and full-stack developer with $1M+ in NFT sales and 7+ years of coding experience. Bridging art and technology.",
   keywords: ["crypto art", "NFT", "full-stack developer", "digital artist", "blockchain", "web3"],
   authors: [{ name: "Carlos Marcial" }],
+  icons: {
+    icon: [
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+    ],
+    shortcut: "/favicon.ico",
+  },
   openGraph: {
     title: "Carlos Marcial - Full-Stack Developer & Digital Artist",
     description: "Crypto artist and full-stack developer with $1M+ in NFT sales and 7+ years of coding experience.",
