@@ -9,8 +9,8 @@ endobj
 2 0 obj
 <<
 /Type /Pages
-/Kids [3 0 R]
-/Count 1
+/Kids [3 0 R 4 0 R]
+/Count 2
 >>
 endobj
 
@@ -19,10 +19,12 @@ endobj
 /Type /Page
 /Parent 2 0 R
 /MediaBox [0 0 612 792]
-/Contents 4 0 R
+/Contents 5 0 R
 /Resources <<
 /Font <<
-/F1 5 0 R
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
 >>
 >>
 >>
@@ -30,32 +32,149 @@ endobj
 
 4 0 obj
 <<
-/Length 500
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 9 0 R
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+>>
+>>
+endobj
+
+5 0 obj
+<<
+/Length 3500
 >>
 stream
 BT
-/F1 24 Tf
-50 720 Td
+/F1 28 Tf
+50 750 Td
 (Carlos Marcial) Tj
-0 -30 Td
-/F1 14 Tf
+0 -35 Td
+/F2 16 Tf
 (Full-Stack Developer & Digital Artist) Tj
-0 -20 Td
+0 -25 Td
+/F3 12 Tf
 (Mexico City-born | Crypto Art Pioneer since 2019) Tj
-0 -20 Td
+0 -15 Td
 (Seven-figure NFT sales | 250+ unique collectors) Tj
+0 -15 Td
+(Featured at Sotheby's Paris \(2023\) | CNN Interview \(2021\)) Tj
+
+0 -35 Td
+/F2 14 Tf
+(SUMMARY) Tj
 0 -20 Td
-(Featured at Sotheby's Paris (2023) | CNN Interview (2021)) Tj
-0 -40 Td
-/F1 12 Tf
-(This is a placeholder PDF. Please replace this file with your actual resume PDF.) Tj
+/F3 11 Tf
+(• Mexico City-born digital artist and self-taught software developer) Tj
+0 -12 Td
+(• Emerged as one of the first artists to sustain full-time living from NFTs \(2020\)) Tj
+0 -12 Td
+(• Explores intersection of technology, cryptocurrency, and art history from Latin American perspective) Tj
+0 -12 Td
+(• Builds AI-driven web applications and integrates cutting-edge tools into creative projects) Tj
+0 -12 Td
+(• Leverages AI-assisted development and Model Context Protocol for innovative solutions) Tj
+
+0 -35 Td
+/F2 14 Tf
+(EXPERIENCE) Tj
 0 -20 Td
-(Visit the website at carlos-marcial.com for the full interactive experience.) Tj
+/F2 12 Tf
+(Independent Artist & Developer | Carlos Marcial Studio | 2020-Present) Tj
+0 -15 Td
+/F3 11 Tf
+(• Full-time crypto artist with 250+ unique collectors across international platforms) Tj
+0 -12 Td
+(• Generated seven-figure NFT sales \(over $1,000,000 by 2021\)) Tj
+0 -12 Td
+(• Featured at Sotheby's "Natively Digital" Paris auction \(2023\) - €22,860 sale) Tj
+0 -12 Td
+(• Exhibited at 0x Society Gallery Montreal \(2022\) - Canada's first physical crypto art gallery) Tj
+0 -12 Td
+(• Self-taught full-stack developer building web3/AI applications \(ChatRAG, Uruloki\)) Tj
+0 -12 Td
+(• Developed AI-assisted creative coding workflows \(40% code via ChatGPT\)) Tj
+0 -12 Td
+(• Created custom smart contracts and generative code for art projects) Tj
+0 -12 Td
+(• Uses artistic design skills to make software projects visually distinctive) Tj
+
+0 -25 Td
+/F2 12 Tf
+(Co-Founder & Creative Director | ViewFin Media Group \(VFMG\), Toronto | 2017-2019) Tj
+0 -15 Td
+/F3 11 Tf
+(• Co-founded one of the first agencies dedicated to blockchain clients) Tj
+0 -12 Td
+(• Built and managed creative team delivering digital design and motion graphics) Tj
+0 -12 Td
+(• Served as Art/Creative Director for crypto projects and fintech startups) Tj
+0 -12 Td
+(• Created animated promotions for Binance anniversary and experimental blockchain ads) Tj
+0 -12 Td
+(• First exposure to cryptocurrency and NFTs \(collected first CryptoKitty in 2019\)) Tj
+0 -12 Td
+(• Interfaced with developers and entrepreneurs in blockchain space) Tj
+0 -12 Td
+(• Developed leadership and client collaboration skills in emerging tech sector) Tj
+
+0 -35 Td
+/F2 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F2 11 Tf
+(Development Stack:) Tj
+0 -12 Td
+/F3 10 Tf
+(TypeScript, JavaScript, Next.js, React, Node.js, HTML5, CSS3, Tailwind CSS) Tj
+
+0 -15 Td
+/F2 11 Tf
+(AI & Machine Learning:) Tj
+0 -12 Td
+/F3 10 Tf
+(OpenAI API, OpenAI Embeddings, LlamaIndex, Vector Databases, RAG Systems) Tj
+
+0 -15 Td
+/F2 11 Tf
+(Web3 & Blockchain:) Tj
+0 -12 Td
+/F3 10 Tf
+(Ethereum, Solidity, Web3.js, Ethers.js, NFT Standards, Smart Contracts) Tj
+
+0 -15 Td
+/F2 11 Tf
+(Creative & Visual:) Tj
+0 -12 Td
+/F3 10 Tf
+(Three.js, WebGL, p5.js, Generative Algorithms, Adobe Creative Suite, Figma, Blender, Cinema4D) Tj
 ET
 endstream
 endobj
 
-5 0 obj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+8 0 obj
 <<
 /Type /Font
 /Subtype /Type1
@@ -63,19 +182,165 @@ endobj
 >>
 endobj
 
+9 0 obj
+<<
+/Length 3800
+>>
+stream
+BT
+/F2 11 Tf
+50 750 Td
+(Data & Infrastructure:) Tj
+0 -12 Td
+/F3 10 Tf
+(PostgreSQL, Supabase, Vercel, Git) Tj
+
+0 -15 Td
+/F2 11 Tf
+(AI-Assisted Development:) Tj
+0 -12 Td
+/F3 10 Tf
+(Cursor IDE, Windsurf, Kiro AI, VSCode + Copilot, Claude Code, AI-Assisted Coding) Tj
+
+0 -15 Td
+/F2 11 Tf
+(Languages:) Tj
+0 -12 Td
+/F3 10 Tf
+(English \(Fluent\), Spanish \(Fluent\), Portuguese \(Basic\)) Tj
+
+0 -35 Td
+/F2 14 Tf
+(KEY PROJECTS) Tj
+0 -20 Td
+/F2 11 Tf
+(ChatRAG.ai - RAG Chatbot Platform) Tj
+0 -12 Td
+/F3 10 Tf
+(Open-source SaaS boilerplate for custom RAG chatbots | Zapier MCP integration \(7K+ apps\)) Tj
+0 -10 Td
+(Tech: Next.js, OpenAI/OpenRouter, Supabase, LlamaIndex, TypeScript) Tj
+
+0 -18 Td
+/F2 11 Tf
+(Uruloki.app - AI-Powered DEX Aggregator) Tj
+0 -12 Td
+/F3 10 Tf
+(Cross-chain trading with AI technical analysis | Ethereum & Solana support) Tj
+0 -10 Td
+(Tech: Next.js, Node.js, Web3.js, AI APIs, PostgreSQL) Tj
+
+0 -18 Td
+/F2 11 Tf
+(The Work of Art as an Algorithmic System) Tj
+0 -12 Td
+/F3 10 Tf
+(Interactive NFT - One-of-a-kind algorithmic aesthetic piece | Sotheby's Paris €22,860) Tj
+0 -10 Td
+(Tech: HTML/JavaScript, Three.js, WebGL, Generative Algorithms) Tj
+
+0 -35 Td
+/F2 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F2 11 Tf
+(M.A. Film \(Screen Directing\) | 2010-2012) Tj
+0 -12 Td
+/F3 10 Tf
+(University of the Arts London \(Drama Centre\), UK) Tj
+
+0 -15 Td
+/F2 11 Tf
+(B.A. Interdisciplinary Studies \(Film & Literature\) | 2003-2008) Tj
+0 -12 Td
+/F3 10 Tf
+(University of Puerto Rico, Río Piedras) Tj
+
+0 -15 Td
+/F2 11 Tf
+(Self-Taught Full-Stack Development | 2017-Present) Tj
+0 -12 Td
+/F3 10 Tf
+(Codecademy + Advanced Training) Tj
+
+0 -35 Td
+/F2 14 Tf
+(EXHIBITIONS & RECOGNITION) Tj
+0 -20 Td
+/F2 11 Tf
+(2023 - Sotheby's "Natively Digital: Oddly Satisfying" | Paris, France) Tj
+0 -12 Td
+/F3 10 Tf
+(Sold "The Work of Art as an Algorithmic Aesthetic System" for €22,860) Tj
+
+0 -15 Td
+/F2 11 Tf
+(2022 - 0x Society Gallery - MetaVRse Exhibition | Montreal, Canada) Tj
+0 -12 Td
+/F3 10 Tf
+(Featured among 12 renowned international digital artists in Canada's first crypto art gallery) Tj
+
+0 -15 Td
+/F2 11 Tf
+(2021 - Kate Vass Galerie | Zürich, Switzerland) Tj
+0 -12 Td
+/F3 10 Tf
+(Showcased "What is Art?" in AI & Generative Art exhibitions) Tj
+
+0 -35 Td
+/F2 14 Tf
+(MEDIA COVERAGE) Tj
+0 -20 Td
+/F2 11 Tf
+(2021 - CNN Interview - NFT Market Impact) Tj
+0 -12 Td
+/F3 10 Tf
+(Featured alongside artist Osinachi explaining how NFTs transformed digital artists' lives) Tj
+
+0 -15 Td
+/F2 11 Tf
+(2022 - Right Click Save Feature) Tj
+0 -12 Td
+/F3 10 Tf
+(Profiled as "probably the most successful crypto artist to emerge from Mexico City") Tj
+
+0 -35 Td
+/F2 14 Tf
+(CONTACT) Tj
+0 -20 Td
+/F3 11 Tf
+(Email: carlosmarcialtorres@gmail.com) Tj
+0 -12 Td
+(GitHub: github.com/carlosmarcial) Tj
+0 -12 Td
+(Twitter: @carlosmarcialt) Tj
+0 -12 Td
+(SuperRare: superrare.com/carlosmarcial) Tj
+0 -12 Td
+(Available for: Development, Art Collaborations, Consulting) Tj
+0 -12 Td
+(Location: Remote | Open to travel) Tj
+ET
+endstream
+endobj
+
 xref
-0 6
+0 10
 0000000000 65535 f 
 0000000010 00000 n 
 0000000079 00000 n 
-0000000136 00000 n 
-0000000294 00000 n 
-0000000845 00000 n 
+0000000138 00000 n 
+0000000300 00000 n 
+0000000462 00000 n 
+0000004014 00000 n 
+0000004081 00000 n 
+0000004148 00000 n 
+0000004202 00000 n 
 trailer
 <<
-/Size 6
+/Size 10
 /Root 1 0 R
 >>
 startxref
-922
+8052
 %%EOF
